@@ -8,11 +8,11 @@ A clean, responsive, and intuitive **Notes Web Application** designed for seamle
 
 ### Light Mode
 Optimized for high-contrast visibility and a crisp reading experience during daytime use.
-![Light Mode](notes-app_nvQHaa.png)
+![Light Mode](notes-app1.jpg)
 
 ### Dark Mode
 Engineered with soft, low-light tones to prevent eye strain during late-night productivity sessions.
-![Dark Mode](image_AD4byu.png)
+![Dark Mode](notes-app.jpg)
 
 ---
 
