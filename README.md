@@ -1,16 +1,34 @@
-# React + Vite
+# Minimalist Notes Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean, responsive, and intuitive **Notes Web Application** designed for seamless thought-capture, organization, and formatting. The application provides an elegant user interface available in both **Light Mode** and **Dark Mode** to adapt to any environment.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌓 Themes
 
-## React Compiler
+### Light Mode
+Optimized for high-contrast visibility and a crisp reading experience during daytime use.
+![Light Mode](notes-app_nvQHaa.png)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Dark Mode
+Engineered with soft, low-light tones to prevent eye strain during late-night productivity sessions.
+![Dark Mode](image_AD4byu.png)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+### 🗂️ Advanced Organization
+* **Smart Filtering:** Quickly navigate using dedicated sections for **All Notes**, **Pinned Items**, and **Trash**.
+* **Notebooks:** Categorize thoughts into dedicated notebooks (e.g., *Leonce*) with real-time note counts.
+* **Tagging System:** Easily generate tags directly within the text area simply by typing `#idea`.
+
+### 📝 Text Formatting Workspace
+The built-in rich-text editor supports essential markdown and typographic layouts:
+* **Text Styles:** Bold (`B`), Italic (`I`), Underline (`U`), Strikethrough (`S`), and Headers (`H`).
+* **Lists:** Create structured ordered or bulleted lists.
+* **Blocks & Elements:** Insert quotes (`❝`), inline code tags (`</>`), highlights, links, and horizontal dividers (`—`).
+
+### 📊 Real-Time Metadata
+* Monitors document analytics instantly with an integrated **word counter**.
+* Keeps track of version history via auto-saved indicators (e.g., *Edited Oct 13*).
